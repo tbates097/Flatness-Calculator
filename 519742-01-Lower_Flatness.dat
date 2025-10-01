@@ -1,0 +1,76 @@
+JobName : N/A
+DateTime : 2025-07-03 13:49:44
+OperatorName : TB
+LaserID : 
+StageLabel : ANT130XY
+Calibrated : 0
+Preload : 0
+ControllerVerison : Automation1
+Iterations : 1
+BiDirectional : 0
+EncoderDirection : 1
+ConversionFactor : 1
+BacklashDistance : 0
+CountsPerUnit : N/A
+TestType : Accuracy
+OpticLocation : DEFAULT
+Payload : OPTICS
+CalibrationFile : None
+HomePositionSet : 0
+TestOrientation : Horizontal
+MotionDirection : 1
+AmplifierType : CP Rev(B) @ 10 Amps
+MoveVelocity : N/A
+MoveAcceleration : 3.33
+DriveFeedbackType : N/A
+DriveEncoderMultiplier : 570
+FirmwareVersion : 5.6.1.8
+StageSerialNumber : 519742-01
+
+Calibration File Settings
+AxisIndex : N/A
+StepSize : 5.0
+HomeDirection : N/A
+HomeOffset : N/A
+LimitToLimitDistance : 0
+RolloverCounts : N/A
+MotionDirection : 1
+EncoderFamily : I
+
+Ignored
+
+Position     Lower Data     Temperature
+:START
+0.0     -0.89     23
+5.0     -0.61     23
+10.0     -0.85     23
+15.0     -1.07     23
+20.0     -1.35     23
+25.0     -1.47     23
+30.0     -1.64     23
+35.0     -1.66     23
+40.0     -1.94     23
+45.0     -1.88     23
+50.0     -2.03     23
+55.0     -2.2     23
+60.0     -2.33     23
+65.0     -2.65     23
+70.0     -2.58     23
+75.0     -2.84     23
+80.0     -2.94     23
+85.0     -2.95     23
+90.0     -2.92     23
+95.0     -3.15     23
+100.0     -3.14     23
+105.0     -3.0     23
+110.0     -3.02     23
+115.0     -3.23     23
+120.0     -3.27     23
+125.0     -3.46     23
+130.0     -3.25     23
+135.0     -3.17     23
+140.0     -3.2     23
+145.0     -2.9     23
+150.0     -2.85     23
+155.0     -2.84     23
+160.0     -2.45     23

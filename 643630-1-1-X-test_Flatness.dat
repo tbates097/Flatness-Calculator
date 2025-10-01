@@ -1,0 +1,80 @@
+JobName : 643630-1-1-X-test
+DateTime : July 7, 2025 08:43:26 EDT
+OperatorName : gschliffka
+LaserID : 05397
+StageLabel : ANT130XY-160-E4
+Calibrated : 0
+CoefficientOfThermalExpansion : 7.5
+ControllerVerison : Automation1 2.10.2
+Iterations : 1
+BiDirectional : 0
+ConversionFactor : 1
+BacklashDistance : 0
+CountsPerUnit : 16250000
+TestType : Flatness
+OpticLocation : 25mm Above Y TT
+Payload : 5 kg
+CalibrationFile : 643630-1-1-X.cal
+HomePositionSet : 0
+TestOrientation : Lower Axis
+MotionDirection : 1
+AmplifierType : ACBrushlessLinear Rev(-) @ 10 Amps
+CrossCalAxis : None
+CrossCalFile : None
+MoveVelocity : 25
+MoveAcceleration : 75
+StageSerialNumber : 519742-01
+
+DBase Info
+DriveFeedbackType : Incremental Encoder Sine Wave
+DriveEncoderMultiplier : 65000
+FirmwareVersion : 2.10.2.2512
+
+Calibration File Settings
+AxisIndex : 1
+CrossCalAxisIndex : 0
+StepSize : 5
+HomeDirection : C
+HomeOffset : -0.329979
+LimitToLimitDistance : 0
+RolloverCounts : 0
+MotionDirection : 1
+EncoderFamily : I
+
+Ignored
+
+       Position          Flat   AirTemp   MatTemp  Pressure  Humidity
+:START
+   -80.00000000      0.007082     20.38     20.40    734.31     54.07
+   -75.00000000      0.005959     20.38     20.40    734.31     54.07
+   -70.00000000      0.004665     20.38     20.40    734.31     54.07
+   -65.00000000      0.003260     20.38     20.40    734.31     54.07
+   -60.00000000      0.001999     20.38     20.40    734.31     54.07
+   -55.00000000      0.000796     20.38     20.40    734.31     54.07
+   -50.00000000     -0.001055     20.38     20.40    734.31     54.07
+   -45.00000000     -0.002137     20.38     20.40    734.31     54.07
+   -40.00000000     -0.003540     20.38     20.40    734.31     54.07
+   -35.00000000     -0.005137     20.38     20.40    734.31     54.07
+   -30.00000000     -0.006435     20.38     20.40    734.31     54.07
+   -25.00000000     -0.007592     20.38     20.40    734.31     54.07
+   -20.00000000     -0.009233     20.38     20.40    734.31     54.07
+   -15.00000000     -0.010435     20.38     20.40    734.31     54.07
+   -10.00000000     -0.012012     20.38     20.40    734.31     54.07
+    -5.00000000     -0.013481     20.38     20.40    734.31     54.07
+     0.00000000     -0.015299     20.38     20.40    734.31     54.07
+     5.00000000     -0.016831     20.38     20.40    734.31     54.19
+    10.00000000     -0.018042     20.38     20.40    734.31     54.19
+    15.00000000     -0.019460     20.38     20.40    734.31     54.19
+    20.00000000     -0.021219     20.38     20.40    734.31     54.19
+    25.00000000     -0.022572     20.38     20.40    734.31     54.19
+    30.00000000     -0.023897     20.38     20.40    734.31     54.19
+    35.00000000     -0.025450     20.38     20.40    734.31     54.19
+    40.00000000     -0.027080     20.38     20.40    734.31     54.19
+    45.00000000     -0.028667     20.38     20.40    734.31     54.16
+    50.00000000     -0.029842     20.38     20.40    734.31     54.16
+    55.00000000     -0.031155     20.38     20.40    734.31     54.16
+    60.00000000     -0.033064     20.38     20.40    734.31     54.16
+    65.00000000     -0.034571     20.38     20.40    734.31     54.16
+    70.00000000     -0.035994     20.38     20.40    734.31     54.16
+    75.00000000     -0.038070     20.38     20.40    734.31     54.16
+    80.00000000     -0.039359     20.38     20.40    734.31     54.19

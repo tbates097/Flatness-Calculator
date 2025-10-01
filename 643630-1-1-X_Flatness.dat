@@ -1,0 +1,80 @@
+JobName : 643630-1-1-X
+DateTime : June 26, 2025 16:29:20 EDT
+OperatorName : gschliffka
+LaserID : 04824
+StageLabel : ANT130XY-160-E4
+Calibrated : 0
+CoefficientOfThermalExpansion : 7.5
+ControllerVerison : Automation1 2.10.2
+Iterations : 1
+BiDirectional : 0
+ConversionFactor : 1
+BacklashDistance : 0
+CountsPerUnit : 16250000
+TestType : Flatness
+OpticLocation : 25mm Above TT
+Payload : 5 kg
+CalibrationFile : None
+HomePositionSet : 0
+TestOrientation : Lower Axis
+MotionDirection : 1
+AmplifierType : ACBrushlessLinear Rev(-) @ 10 Amps
+CrossCalAxis : None
+CrossCalFile : None
+MoveVelocity : 25
+MoveAcceleration : 75
+StageSerialNumber : 519742-01
+
+DBase Info
+DriveFeedbackType : Incremental Encoder Sine Wave
+DriveEncoderMultiplier : 65000
+FirmwareVersion : 2.10.2.2512
+
+Calibration File Settings
+AxisIndex : 1
+CrossCalAxisIndex : -1
+StepSize : 5
+HomeDirection : C
+HomeOffset : -0.329979
+LimitToLimitDistance : 0
+RolloverCounts : 0
+MotionDirection : 1
+EncoderFamily : I
+
+Ignored
+
+       Position     LaserData   AirTemp   MatTemp  Pressure  Humidity
+:START
+   -80.00000000     -0.002340     21.72     22.01    735.66     49.60
+   -75.00000000     -0.002131     21.72     22.01    735.66     49.60
+   -70.00000000     -0.002151     21.72     22.01    735.67     49.60
+   -65.00000000     -0.001639     21.72     22.01    735.65     49.60
+   -60.00000000     -0.001509     21.72     22.01    735.70     49.60
+   -55.00000000     -0.001184     21.72     22.01    735.69     49.60
+   -50.00000000     -0.000874     21.72     22.01    735.68     49.60
+   -45.00000000     -0.000734     21.72     22.01    735.68     49.60
+   -40.00000000     -0.000259     21.72     22.01    735.66     49.60
+   -35.00000000     -0.000240     21.72     22.01    735.69     49.60
+   -30.00000000     -0.000110     21.72     22.01    735.67     49.60
+   -25.00000000      0.000299     21.72     22.01    735.65     49.60
+   -20.00000000      0.000137     21.72     22.01    735.65     49.60
+   -15.00000000      0.000267     21.71     22.01    735.64     49.60
+   -10.00000000      0.000369     21.71     22.01    735.65     49.60
+    -5.00000000      0.000362     21.71     22.01    735.67     49.60
+     0.00000000      0.000254     21.71     22.01    735.67     49.60
+     5.00000000      0.000268     21.71     22.01    735.64     49.60
+    10.00000000      0.000468     21.71     22.01    735.64     49.60
+    15.00000000      0.000542     21.71     22.01    735.61     49.60
+    20.00000000      0.000491     21.71     22.01    735.62     49.60
+    25.00000000      0.000641     21.71     22.01    735.60     49.60
+    30.00000000      0.000543     21.71     22.01    735.62     49.60
+    35.00000000      0.000537     21.71     22.01    735.65     49.60
+    40.00000000      0.000499     21.71     22.01    735.63     49.60
+    45.00000000      0.000109     21.71     22.01    735.60     49.60
+    50.00000000      0.000342     21.71     22.01    735.61     49.60
+    55.00000000      0.000083     21.71     22.01    735.59     49.60
+    60.00000000      0.000129     21.71     22.01    735.59     49.60
+    65.00000000      0.000043     21.71     22.01    735.61     49.60
+    70.00000000      0.000011     21.71     22.01    735.58     49.60
+    75.00000000     -0.000049     21.71     22.01    735.61     49.78
+    80.00000000      0.000033     21.71     22.01    735.57     49.78

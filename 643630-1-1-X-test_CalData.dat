@@ -1,0 +1,55 @@
+Rotary Calibrator: 	Linear Error Plot
+Filename: 	C:\Users\tbates\Python\Flatness Calculator\643630-1-1-X-test_CalData.dat
+Acquisition Date: 	July 7, 2025 08:43:26 EDT
+Current Date: 	Jul.07,2025 09:14:39
+Measurement Type: 	Linear
+Travel Mode: 	Unidirectional
+Number of Target Positions: 	33
+Number of total data pairs: 	33
+Number of total data runs: 	1
+Expansion Coefficient: 	7.5 PPM/°C
+Position Value Units: 	millimeters
+Error Value Units: 	micrometers
+
+
+environmental data - 	MIN	MAX	AVG
+Air Temp (C)	20.38	20.38	20.38
+Air Prs (mm)	734.31	734.31	734.31
+Air Hmd (%)	54.07	54.19	54.12
+MT1 Temp (C)	20.40	20.40	20.40
+
+Sorted by	position number
+Run #	Pos#	Target Value	Error Value	Out of spec.
+1	1	-8.0000e+01	0.00000e+00
+1	2	-7.5000e+01	-3.35552e-01
+1	3	-7.0000e+01	-5.00105e-01
+1	4	-6.5000e+01	-5.53657e-01
+1	5	-6.0000e+01	-7.51210e-01
+1	6	-5.5000e+01	-1.00676e+00
+1	7	-5.0000e+01	-6.14315e-01
+1	8	-4.5000e+01	-9.90867e-01
+1	9	-4.0000e+01	-1.04642e+00
+1	10	-3.5000e+01	-9.07972e-01
+1	11	-3.0000e+01	-1.06852e+00
+1	12	-2.5000e+01	-1.37008e+00
+1	13	-2.0000e+01	-1.18763e+00
+1	14	-1.5000e+01	-1.44418e+00
+1	15	-1.0000e+01	-1.32573e+00
+1	16	-5.0000e+00	-1.31529e+00
+1	17	0.0000e+00	-9.55840e-01
+1	18	5.0000e+00	-8.82392e-01
+1	19	1.0000e+01	-1.12994e+00
+1	20	1.5000e+01	-1.17050e+00
+1	21	2.0000e+01	-8.70049e-01
+1	22	2.5000e+01	-9.75602e-01
+1	23	3.0000e+01	-1.10915e+00
+1	24	3.5000e+01	-1.01471e+00
+1	25	4.0000e+01	-8.43259e-01
+1	26	4.5000e+01	-7.14812e-01
+1	27	5.0000e+01	-9.98364e-01
+1	28	5.5000e+01	-1.14392e+00
+1	29	6.0000e+01	-6.93469e-01
+1	30	6.5000e+01	-6.45022e-01
+1	31	7.0000e+01	-6.80574e-01
+1	32	7.5000e+01	-6.31267e-02
+1	33	8.0000e+01	-2.32679e-01

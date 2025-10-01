@@ -1,0 +1,18 @@
+CreateCalibrationFile : 0
+PlotOptions : 49
+ResultDisplayOptions : 32
+CalculationStandard : 0
+ResultDirectory : C:\Users\tbates\Python\Flatness Calculator
+PositionUnitConversionFactor : 1
+PositionUnitName : mm
+ErrorUnitConversionFactor : 1
+ErrorUnitName : Micron
+PlotScaleFactor : 0
+TiffImageFilePath : C:\Linear Calibrator\Testing\Flatness
+ApplyBacklashComp : 0
+MovingWindow : 0
+
+Ignored
+
+:COMMENTS
+
